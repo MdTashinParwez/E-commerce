@@ -162,7 +162,7 @@ footer {
     background: #d4ac0d;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 790px) {
     .footer-container {
         flex-direction: column;
         text-align: center;
